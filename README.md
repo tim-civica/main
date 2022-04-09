@@ -1,3 +1,3 @@
-# Test Repository
+# Demo Repository
 
-Some Description by me!
+This is my 1st repository
